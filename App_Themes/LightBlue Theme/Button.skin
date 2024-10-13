@@ -1,0 +1,2 @@
+﻿<asp:Button runat="server" CssClass="ButtonDefault" />
+<asp:Button runat="server" CssClass="ButtonSocMed" SkinID="BtnSSM" />
